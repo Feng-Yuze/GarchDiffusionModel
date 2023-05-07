@@ -1,1 +1,1 @@
-# Vasicek-Model
+# GarchDiffusionModel
